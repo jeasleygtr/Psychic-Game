@@ -1,0 +1,16 @@
+body {
+	color: white;
+	background: url("../images/background.jpg");
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+	margin: 20px;
+	font-weight: bold;
+	font-family: "Helvetica";
+}
+
+p {
+	margin: 12px;
+}
